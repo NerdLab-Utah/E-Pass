@@ -48,7 +48,7 @@ For local testing, clone this repo and run the app
 
 ## Screenshots
 
-![Task Example](images/Screenshot-of-preliminary-Shopping-Task.png)
+![Task Example](Images/Screenshot-of-preliminary-Shopping-Task.png)
 
 ---
 
